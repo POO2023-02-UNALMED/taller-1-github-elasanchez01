@@ -1,3 +1,8 @@
 Daniela Sanchez
 24 años
 Aspiro a aprender mucho y aplicar los conocimientos adquiridos en mi trabajo 
+
+Al crear la carpeta "archivos" dentro de la carpeta en mi computador, no se generó el cambio en github por ser una carpeta vacía. Al momento de crear este archivo si se muestra el cambio para subir el commit.
+
+Es importante tener cuidado al modificar dos archivos al mismo tiempo pues las versiones pueden variar entre los colaboradores y se pueden generar conflictos. En estos casos es recomendable revisar los cambios hechos entre versiones y aceptar los que sean pertinentes.  
+
